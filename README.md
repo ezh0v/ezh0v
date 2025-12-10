@@ -7,7 +7,7 @@ Experienced in backend development, with a focus on Go and microservices. I valu
 
 ## Tech Stack & Interests
 
-`Golang` · `C`
+`Golang` · `Python`
 
 Research and development, rapid prototyping, community-first product design.
 
