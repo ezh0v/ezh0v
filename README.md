@@ -3,11 +3,11 @@
 <a href="https://t.me/e2h0v" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href = "mailto:ejow-artem@yandex.ru"><img src="https://img.shields.io/badge/-Email-06D6A9?style=for-the-badge&logo=maildotru&logoColor=fff"></a>
 
-Experienced in backend development, with a focus on Go and microservices. I value building systems that are scalable and secure.
+Experienced in backend development, with a focus on Go and microservices. 
 
 ## Tech Stack & Interests
 
-`Golang` · `Python` · `JavaScript` · `TypeScript`
+`Golang` · `JavaScript` · `Python`
 
 Research and development, rapid prototyping, community-first product design.
 
