@@ -1,6 +1,7 @@
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=true&width=435&lines=Hello+there+%F0%9F%91%8B)  
 
 <a href="https://t.me/e2h0v" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://codeberg.org/ezh0v" target="_blank"><img src="https://img.shields.io/badge/codeberg-%232185D0?style=for-the-badge&logo=codeberg&logoColor=%23fff"/></a>
 
 Experienced in backend development, with a focus on Go and microservices. 
 
